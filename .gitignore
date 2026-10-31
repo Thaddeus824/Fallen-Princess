@@ -1,0 +1,8 @@
+# Godot 4+ specific ignores
+/android/
+
+# Godot generated cache
+.godot/
+
+# Generated translations
+*.translation
